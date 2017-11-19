@@ -1,0 +1,1 @@
+cmd_/home/pi/Desktop/ir_blaster/SPDS.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/Desktop/ir_blaster/SPDS.ko /home/pi/Desktop/ir_blaster/SPDS.o /home/pi/Desktop/ir_blaster/SPDS.mod.o ;  true

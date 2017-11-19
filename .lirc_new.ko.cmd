@@ -1,0 +1,1 @@
+cmd_/home/pi/Desktop/ir_blaster/lirc_new.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/Desktop/ir_blaster/lirc_new.ko /home/pi/Desktop/ir_blaster/lirc_new.o /home/pi/Desktop/ir_blaster/lirc_new.mod.o ;  true
